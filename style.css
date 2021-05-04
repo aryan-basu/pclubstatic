@@ -31,7 +31,10 @@
       text-align: center;
       pointer-events: none;
     }
-    
+    .nav-item{
+      border-bottom: 0.1px solid #000;
+      padding: 4px;
+    }
     .logo img {
       display:inline-block;
       z-index: 1;

@@ -11,7 +11,10 @@ body{
 .timeline-box i{
 color:#24bb16 !important;
 }
-
+.nav-item{
+  border-bottom: 0.1px solid #000;
+  padding: 4px;
+}
 #AboutUs{
   background-color: black;
 
