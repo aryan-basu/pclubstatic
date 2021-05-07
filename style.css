@@ -617,7 +617,8 @@
   display: inline-block;
   font-size: 1em;
   list-style-type: none;
-  padding: 1em;
+  padding: 0.8em;
+  margin-right: 2em;
   text-transform: uppercase;
 }
 .countspan {
