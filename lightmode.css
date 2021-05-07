@@ -580,3 +580,18 @@ color:#24bb16 !important;
     opacity: 1;
     visibility: visible;
   }
+
+
+
+  .count {
+    
+    display: inline-block;
+    font-size: 1em;
+    list-style-type: none;
+    padding: 1em;
+    text-transform: uppercase;
+  }
+  .countspan {
+    display: block;
+    font-size: 1rem;
+  }
