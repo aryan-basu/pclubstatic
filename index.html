@@ -21,12 +21,30 @@
 </head>
 <body>
  
-  
+  <a onclick="topFunction()" id="button"></a>
+<script>
+  var btn = $('#button');
 
+$(window).scroll(function() {
+  if ($(window).scrollTop() > 300) {
+    btn.addClass('show');
+  } else {
+    btn.removeClass('show');
+  }
+});
+
+function topFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+
+
+</script>
   
     
   
-     
+
+  
 
  <div id="particles-js" >
   <nav class="navbar fixed-top navbar-sticky-top navbar-expand-lg navbar-light ">
