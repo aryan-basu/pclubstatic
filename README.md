@@ -1,7 +1,7 @@
 
 
 # Pclub-Website
-Website for PClub<br><br><br>
+Website for Programming-Club<br><br><br>
 ![Repository Size](https://img.shields.io/github/repo-size/aryan-basu/pclubstatic)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f81fed59-c033-4501-94c2-9159681f368f/deploy-status)](https://app.netlify.com/sites/upbeat-kepler-61bdd2/deploys)
 ![Lines of Codes](https://img.shields.io/tokei/lines/github/aryan-basu/pclubstatic)
